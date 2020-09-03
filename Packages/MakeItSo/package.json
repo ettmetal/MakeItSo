@@ -1,0 +1,6 @@
+{
+  "name": "com.ettmetal.makeitso",
+  "version": "0.0.1",
+  "displayName": "Make It So",
+  "description": "Easily add command line flags and options to Unity with static methods and attributes"
+}
