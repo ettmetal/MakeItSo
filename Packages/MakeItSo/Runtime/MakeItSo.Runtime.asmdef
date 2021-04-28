@@ -1,0 +1,20 @@
+{
+    "name": "MakeItSo.Runtime",
+    "references": [
+        "GUID:d891fb0872596a3498db2924dba44e23"
+    ],
+    "includePlatforms": [
+        "LinuxStandalone64",
+        "macOSStandalone",
+        "WindowsStandalone32",
+        "WindowsStandalone64"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
